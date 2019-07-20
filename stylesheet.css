@@ -1,0 +1,188 @@
+a:hover{
+    text-decoration:none;
+}
+
+.search{
+    padding-left:10%;
+}
+
+.naver-logo{
+    position:absolute;
+    top:2%;
+    left:45%;
+}
+
+.header-btn{
+    float:right;
+    position:absolute;
+    top:2%;
+    left:70%;
+    border:none;
+}
+
+.header-btn a{
+    font-size:12px;
+    padding:0 10px;
+    border-right:1px solid #f5f5f5;
+}
+
+.genre{
+    text-align:center;
+    width:100%;
+    height:40px;
+    background-color:#f5f5f5;
+}
+
+.genre a{
+    position:relative;
+    top:10px;
+    padding:5px;
+    margin-left:20px;
+    background-color:white;
+    font-size:12px;
+    text-decoration:none;
+}
+
+.genre a:hover{
+    background-color:#f5f5f5;
+    text-decoration:none;
+}
+
+.title{
+    background-color:#FAFAFA;
+    height:120px;
+}
+
+.title p{
+    font-size:12px;
+    color:gray;
+}
+
+.title img{
+    position:relative;
+    top:20px;
+    left:10%;
+}
+
+.title h1{
+    position:absolute;
+    top:15%;
+    left:20%;
+}
+
+.date{
+    padding-left:20%;
+}
+
+.view{
+    position:absolute;
+    top:15%;
+    left:70%;
+}
+
+
+.promotion img{
+    position:absolute;
+    top:40%;
+    left:75%;
+}
+
+
+.writer{
+    height:120px;
+}
+
+.writer img{
+    position:relative;
+    top:30px;
+    left:10%;
+}
+
+.writer-int{
+    position:absolute;
+    top:35%;
+    left:15%;
+}
+
+.text{
+    width:60%;
+    padding-left:10%;
+}
+
+.text h2{
+    border-bottom:1px solid #dcdcdc;
+}
+
+.column{
+    padding-top:5%;
+}
+
+.column p{
+    line-height:12px;
+}
+
+.column img{
+    padding:2% 0;
+}
+
+.category{
+    width:60%;
+    padding-left:10%;
+    height:25%;
+    font-size:14px;
+}
+
+.category h2{
+    border-top:1px solid #dcdcdc;
+    padding-top:5%;
+    margin-top:5%;
+}
+
+.category a{
+    display:block;
+    padding:5px;
+    text-decoration:none;
+}
+
+.category a:hover{
+    background-color:#FAFAFA;
+}
+.c-1{
+    position:absolute;
+}
+
+.c-2{
+    position:relative;
+    left:25%;
+    position:absolute;
+}
+
+.c-3{
+    position:relative;
+    left:50%;
+    width:18%;
+}
+
+
+footer{
+    margin-top:5%;
+    border-top:1px solid #dcdcdc;
+}
+
+.ftr-btn{
+    padding-top:2%;
+    padding-left:9%;
+    height:15px;
+    font-size:12px;
+}
+
+.ftr-btn a{
+    border-right:1px solid #dcdcdc;
+    padding:0 1%;
+}
+
+.ftr-btn p{
+    position:absolute;
+    top:5220px;
+    left:75%;
+}
